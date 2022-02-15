@@ -4,7 +4,6 @@
     font-size: 62.5%;
 }
 
-}
 .grid__contenedor {
     background-color: #444;
     display: grid;
@@ -1154,3 +1153,4 @@ b {
         text-align: center;
         padding: 5px;
     }
+}
