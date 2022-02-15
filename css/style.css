@@ -166,7 +166,7 @@
 }
 
 .indexflexaside__item--img:hover {
-    transform: scale(1.4) translate(6px, 5px);
+    transform: scale(1.4) translate(5px, 5px);
 }
 
 .indexflexaside__item--h3 {
